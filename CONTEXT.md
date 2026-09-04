@@ -23,7 +23,7 @@
 - No open issues tracked for this pass; self-found trivial fixes only.
 
 ## Gap ledger (dedupe — READ FIRST, never re-pick)
-- `2026-09-04` self-found trivial-fix pass — outcome: pr-opened — packed typos/dead links in README (see PR).
+- `2026-09-04` self-found trivial-fix pass — outcome: pr-opened (fork PR #2) — packed 8 typos + 1 broken markdown link in README.md; all verified present in current upstream, deduped (no upstream PR touches these strings).
 
 ## Mined gaps (discovered, not yet attempted)
-- `2026-09-04` README typos + dead links (see PR diff) — status: attempted
+- `2026-09-04` README typos + broken link (see PR #2 diff) — status: attempted

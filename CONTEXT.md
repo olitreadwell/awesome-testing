@@ -24,7 +24,7 @@
 
 ## Gap ledger (dedupe — READ FIRST, never re-pick)
 - `2026-09-04` self-found trivial-fix pass — outcome: pr-opened (fork PR #2) — packed 8 typos + 1 broken markdown link in README.md; all verified present in current upstream, deduped (no upstream PR touches these strings). Promoted + merged upstream as #229.
-- `2026-09-08` issue #220 (Correct Agent QA license description) — outcome: pr-opened (fork PR #3) — README called agent-qa "Open-source" but its license is FSL-1.1-ALv2 (source-available, not OSI-approved); verified against vostride/agent-qa LICENSE.md; changed to "Source-available". Deduped: no open/closed/merged upstream PR touches this string.
+- `2026-09-08` issue #220 (Correct Agent QA license description) — outcome: pr-opened (fork PR #4) — README called agent-qa "Open-source" but its license is FSL-1.1-ALv2 (source-available, not OSI-approved); verified against vostride/agent-qa LICENSE.md; changed to "Source-available". Deduped: no open/closed/merged upstream PR touches this string.
 
 ## Mined gaps (discovered, not yet attempted)
 - `2026-09-04` README typos + broken link (see PR #2 diff) — status: attempted

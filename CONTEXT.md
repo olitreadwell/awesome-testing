@@ -25,7 +25,9 @@
 ## Gap ledger (dedupe — READ FIRST, never re-pick)
 - `2026-09-04` self-found trivial-fix pass — outcome: pr-opened (fork PR #2) — packed 8 typos + 1 broken markdown link in README.md; all verified present in current upstream, deduped (no upstream PR touches these strings). Promoted + merged upstream as #229.
 - `2026-09-08` issue #220 (Correct Agent QA license description) — outcome: pr-opened (fork PR #4) — README called agent-qa "Open-source" but its license is FSL-1.1-ALv2 (source-available, not OSI-approved); verified against vostride/agent-qa LICENSE.md; changed to "Source-available". Deduped: no open/closed/merged upstream PR touches this string.
+- `2026-09-09` self-found repo-audit gap (duplicate entry) — outcome: pr-opened (fork PR #5) — the Manning book "Chaos Engineering" was listed twice in the Books section (same URL, 3 lines apart); removed the second, more generic entry. Deduped: no open/closed/merged upstream PR addresses the duplicate (PR #20 added the first entry; e832123 added the second).
 
 ## Mined gaps (discovered, not yet attempted)
 - `2026-09-04` README typos + broken link (see PR #2 diff) — status: attempted
 - `2026-09-08` docs-grounded: agent-qa license mislabeled "Open-source" (issue #220) — status: attempted
+- `2026-09-09` docs: duplicate "Chaos Engineering" book entry in Books section (same Manning URL twice) — status: attempted

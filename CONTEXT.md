@@ -28,7 +28,11 @@
 - `2026-09-08` issue #220 (Correct Agent QA license description) — outcome: pr-opened (fork PR #4) — README called agent-qa "Open-source" but its license is FSL-1.1-ALv2 (source-available, not OSI-approved); verified against vostride/agent-qa LICENSE.md; changed to "Source-available". Deduped: no open/closed/merged upstream PR touches this string.
 - `2026-09-09` self-found repo-audit gap (duplicate entry) — outcome: pr-opened (fork PR #5) — the Manning book "Chaos Engineering" was listed twice in the Books section (same URL, 3 lines apart); removed the second, more generic entry. Deduped: no open/closed/merged upstream PR addresses the duplicate (PR #20 added the first entry; e832123 added the second).
 
+- `2026-09-24` trivial/minor-fix loop pass — outcome: skipped (fewer than 3 genuine fixes after an exhaustive whole-repo hunt) — fresh full scan of README/CONTRIBUTING/workflows/LICENSE/CoC: codespell clean (only "Lastest" and "TestNG", both genuine product names), no duplicated words, no stale command references, and a live HTTP sweep of all 185 external links found exactly one genuine 404 (`https://mockhero.dev`, product defunct — mockhero.io/www/app/docs/api all fail; no replacement URL, so the only possible fix would delete the whole entry = beyond a trivial link swap). Two same-URL repeats (Polarity, Learn to Code) are deliberate cross-listings in different sections with distinct descriptions (consistent with Keploy/MockServer), not accidental duplicates — not fixed. No CONTRIBUTING policy signal that this run needs (bans_trivial false, no CLA/signup, English-first).
+
 ## Mined gaps (discovered, not yet attempted)
 - `2026-09-04` README typos + broken link (see PR #2 diff) — status: attempted
 - `2026-09-08` docs-grounded: agent-qa license mislabeled "Open-source" (issue #220) — status: attempted
 - `2026-09-09` docs: duplicate "Chaos Engineering" book entry in Books section (same Manning URL twice) — status: attempted
+- `2026-09-24` mockhero.dev dead link — status: dropped (only genuine 404 found; no working replacement URL; removing the whole entry exceeds trivial-link scope)
+- `2026-09-24` Polarity + Learn-to-Code same-URL repeats — status: dropped (deliberate cross-listings, not accidental duplicates; not in scope)

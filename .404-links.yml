@@ -1,2 +1,2 @@
 delay:
-    'https://github.com': 500 #Avoiding Github rate limit by delaying the request -> 500ms
+    'https://github.com': 500 #Avoiding GitHub rate limit by delaying the request -> 500ms

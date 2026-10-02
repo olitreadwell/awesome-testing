@@ -34,7 +34,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [HttpMaster](https://www.httpmaster.net) - Professional software tool for HTTP testing and debugging.
 - [Keploy](https://github.com/keploy/keploy) - API Testing Platform that automatically generates unit test cases along with dependency mocks.
 - [RestQA](https://github.com/restqa/restqa) - REST API testing framework based on Gherkin.
-- [SpecTest](https://github.com/justiceo/spectest) - Truly declarative API testing framework in Js, or plain JSON.
+- [SpecTest](https://github.com/justiceo/spectest) - Truly declarative API testing framework in JS, or plain JSON.
 - [Tests Coverage Tool](https://github.com/Nikita-Filonov/tests-coverage-tool) - Ultimate tool to measure gRPC service coverage from tests.
 - [Swagger Coverage Tool](https://github.com/Nikita-Filonov/swagger-coverage-tool) - The Swagger Coverage Tool is designed to measure API test coverage based on Swagger documentation. It provides automated tracking and reporting of test coverage for APIs, helping ensure that your endpoints and services are well-tested.
 - [Webhook Debugger & Logger](https://apify.com/ar27111994/webhook-debugger-logger) - Enterprise-grade tool for testing, debugging, and logging incoming webhooks in real-time.
@@ -47,9 +47,9 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ### Security Testing
 - [BeEF](http://beefproject.com/) - Manipulate the browser by exploiting any XSS vulnerabilities you find.
 - [OWASP ZAP](https://github.com/zaproxy/zaproxy) - Intercepting proxy for HTTP traffic manipulation, security scanning, and exploitation.
-- [BurpSuite](https://portswigger.net/burp/communitydownload) - Intercept API and Reply with changes in realtime with according api manipulations.
+- [BurpSuite](https://portswigger.net/burp/communitydownload) - Intercept API and Reply with changes in realtime with according API manipulations.
 - [Nuclei Scanner](https://github.com/projectdiscovery/nuclei) - nuclei is automated scanner for common vulnerability finding on site.
- - [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open-source (GPLv3) autonomous AI penetration-testing CLI with 50 specialist agents and 140+ offensive tools over MCP for DAST-style web and API security assessment.
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open-source (GPLv3) autonomous AI penetration-testing CLI with 50 specialist agents and 140+ offensive tools over MCP for DAST-style web and API security assessment.
 
 ### AI & LLM Testing
 - [promptfoo](https://github.com/promptfoo/promptfoo) - Open-source framework for testing and red teaming LLM applications. Compare prompts, test RAG architectures, run multi-turn adversarial attacks, and catch security vulnerabilities with CI/CD integration.
@@ -66,7 +66,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [OrcaPromptVault](https://github.com/Continuum-AI-Corp/OrcaPromptVault) - Dated archive of the system prompts and tool-call schemas shipped AI agents send, so tests can be written against a product's real declared tool surface rather than a guess at it.
 
 ### Service Virtualization
-- [Beeceptor](https://beeceptor.com/) - Easy to use no-code mock servers for service virtualization. Rest, SOAP, GraphQL supported. Create an API mock server from OpenAPI Specification or Postman collection.
+- [Beeceptor](https://beeceptor.com/) - Easy to use no-code mock servers for service virtualization. REST, SOAP, GraphQL supported. Create an API mock server from OpenAPI Specification or Postman collection.
 - [DeepfakeHTTP](https://github.com/xnbox/DeepfakeHTTP) - Web server using HTTP dumps as a response source for API simulation.
 - [fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source local AWS cloud emulator for integration tests, with 23 services at 100% conformance and first-party test-assertion SDKs in 6 languages.
 - [mockd](https://github.com/getmockd/mockd) - Open-source multi-protocol mock server supporting HTTP, gRPC, GraphQL, WebSocket, MQTT, and SOAP with chaos engineering and proxy recording.
@@ -85,7 +85,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [recheck-web](https://github.com/retest/recheck-web) - Change comparison tool with Golden Masters and "unbreakable Selenium" tests.
 - [Sherlo](https://github.com/sherlo-io/sherlo) - Visual testing platform for React Native Storybook. Captures screenshots on iOS and Android simulators in the cloud and detects visual changes automatically.
 - [wopee.io](https://wopee.io/) - Autonomous visual regression testing platform.
-- [SmartUI by TestMu AI (formerly LambdaTest)](https://www.testmuai.com/visual-testing-tool/)- AI-Native Visual Testing Tool for Flawless UIs across browsers, apps, websites, and PDFs.
+- [SmartUI by TestMu AI (formerly LambdaTest)](https://www.testmuai.com/visual-testing-tool/) - AI-Native Visual Testing Tool for Flawless UIs across browsers, apps, websites, and PDFs.
 
 ### UI & End-to-End Testing
 - [Polarity](https://www.polarity.so) - Full visual and desktop environments showcasing complete E2E testing for all UI/UX features. Generated you Playwright, Cypress, and other code for you as the test runs.
@@ -102,16 +102,16 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Hyperbrowser](https://hyperbrowser.ai) - Scalable headless browser testing with built-in session recording.
 - [Hercules](https://github.com/test-zeus-ai/testzeus-hercules) - Open-source end-to-end testing agent.
 - [Kane CLI](https://www.testmuai.com/kane-cli/) - Natural-language browser testing from the terminal, locally or in CI, with export to Playwright and shareable run evidence.
-- [Keploy](https://keploy.io) – Open-source AI-powered end-to-end testing tool for APIs and microservices that auto-generates test cases and mocks from real traffic.
+- [Keploy](https://keploy.io) - Open-source AI-powered end-to-end testing tool for APIs and microservices that auto-generates test cases and mocks from real traffic.
 - [TestMu AI (formerly LambdaTest)](https://www.testmuai.com) - Full-Stack Agentic AI Quality Engineering platform that empowers teams to test intelligently and ship faster.
-- [Mocky Balboa](https://docs.mockybalboa.com/) - Mock server side network requests in your fullstack apps declaratively at runtime
+- [Mocky Balboa](https://docs.mockybalboa.com/) - Mock server side network requests in your fullstack apps declaratively at runtime.
 - [Octomind](https://github.com/OctoMind-dev) - AI-powered test case discovery and maintenance.
 - [playwright-bdd](https://github.com/vitalets/playwright-bdd) - BDD-style Playwright testing.
 - [QA Wolf](https://github.com/qawolf/qawolf) - Node.js library for creating browser tests faster.
 - [qmax-mcp](https://github.com/Quality-Max/qmax-mcp) - MCP server and CLI that gives coding agents independent QA evidence before they declare a web change done: scans a URL for console errors, broken links, accessibility issues, Core Web Vitals, SEO, security headers, and cookies/trackers, then generates and runs a deterministic Playwright repro behind a human-approval gate.
 - [tapflow](https://github.com/jo-duchan/tapflow) - Self-hosted mobile QA tool that streams iOS simulators and Android emulators to the browser for team-wide testing without local setup.
 - [UI Coverage Tool](https://github.com/Nikita-Filonov/ui-coverage-scenario-tool) - UI Coverage Tool is an innovative, no-overhead solution for tracking and visualizing UI test coverage — directly on your actual application, not static snapshots.
-- [VibeView](https://vibeview.io/) - Run & test iOS, Android, Apple TV and Android TV apps right in your browser, with Roku in beta. Build tests by recording a flow or write steps in plain English, flows can be ran cross-platform, and wired into pull requests. When a step fails - AI agent takes over so the rest of the run still completes, and the report tells you what changed based on failed steps and visual diff.
+- [VibeView](https://vibeview.io/) - Run & test iOS, Android, Apple TV and Android TV apps right in your browser, with Roku in beta. Build tests by recording a flow or write steps in plain English, flows can be run cross-platform, and wired into pull requests. When a step fails - AI agent takes over so the rest of the run still completes, and the report tells you what changed based on failed steps and visual diff.
 - [Waterfall AI Test](https://github.com/jiongfeng/waterfall-ai-test-platform) - Open-source visual workbench for Playwright Test Agents that turns requirements into editable plans and verified Playwright tests with human review, repair workflows, version history, and execution evidence.
 - [agent-qa](https://github.com/vostride/agent-qa) - Self-improving QA agent for natural-language web and mobile tests, with execution memory and regression detection.
   
@@ -121,7 +121,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [qarunbook](https://qarunbook.com) - Free shared test runbook where testers record a pass or fail per platform with screenshots, and an issue marked fixed sends the check back for a retest.
 - [skipper](https://github.com/get-skipper/skipper) - Real-time test execution control via Google Spreadsheet, enabling instant toggle without code changes.
 - [TestLink](https://github.com/TestLinkOpenSourceTRMS/testlink-code) - Open-source test case management system.
-- [Testomatio](https://testomat.io/) - Modern TCMS allowing sync of manual and automated tests.
+- [Testomat.io](https://testomat.io/) - Modern TCMS allowing sync of manual and automated tests.
 
 ### Test Data Management
 - [TempMailGrab](https://tempmailgrab.com/api-docs) - Disposable email API for temporary inboxes, OTP extraction, verification links, and webhooks in Playwright, Cypress, and CI tests.
@@ -141,11 +141,10 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Código ao Ponto](https://codigoaoponto.com/en/tools) - Free browser-based test data generators and validators for Brazilian documents (CPF, CNPJ, RG, CNH) with valid check digits, plus test credit cards. No signup.
 - [LaunchStock Test Data Generator](https://launchstock.app/tools/test-data-generator) - Browser generator for six modelled businesses: retail, SaaS, healthcare, banking, logistics and HR. Values agree across tables, not just across keys. Order totals reconcile against their lines, a bank ledger balances forward, and a discharge never precedes its admission. Exports CSV, JSON or a PostgreSQL dump, no account. A paid pack adds your own schema and unlimited rows.
 - [postal-code-formats](https://github.com/vinceblock99/postal-code-formats) - Postal code formats, validation regexes and 9,000 real sample codes for 31 countries, with every regex tested against the samples in CI.
-
 - [StanzaAPI Test Data](https://stanzaapi.com/datasets) - Free CC0 synthetic test data for regulated B2B formats (IBAN, X12, ISO 20022, GS1, VAT, LEI, UDI, Peppol, Factur-X, CBAM, EPCIS), deterministic and check-digit-valid, as JSON and CSV.
 
 ### Browser Extensions & Utilities
-- [Anchor Browser](https://anchorbrowser.io) - Cloud browser infrastructure with built-in stealth and proxy rotation for automated testing at scale
+- [Anchor Browser](https://anchorbrowser.io) - Cloud browser infrastructure with built-in stealth and proxy rotation for automated testing at scale.
 - [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi) - Field-based value suggestions for form testing.
 - [BugShot](https://chromewebstore.google.com/detail/bugshot/ohakhekagkodklkickemonmifdcbhmig) - Capture a bug as a screenshot, a screen or tab recording, or a 30-second replay, with console, network, and user action logs collected automatically. Reports go straight from the browser to Jira, GitHub, Linear, Notion, GitLab, Asana, ClickUp, or Slack, with no third-party server in between. Open source, MIT.
 - [Check All](https://chrispederick.com/work/web-developer/) - Provides a "Select All" function where missing.
@@ -164,8 +163,8 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [WAVE](https://wave.webaim.org/) - Suite of evaluation tools that helps authors make their web content more accessible to individuals with disabilities.
 
 ### Performance & Load Testing
-- [Yslow](http://yslow.org/) - Analyze web page performance based on Yahoo!'s rules.
-- [Load Testing Hub Panel](https://github.com/Nikita-Filonov/load-testing-hub-panel) - Ultimate web UI for visualizing load test results
+- [YSlow](http://yslow.org/) - Analyze web page performance based on Yahoo!'s rules.
+- [Load Testing Hub Panel](https://github.com/Nikita-Filonov/load-testing-hub-panel) - Ultimate web UI for visualizing load test results.
 - [k6](https://github.com/grafana/k6) - Modern load testing tool, scriptable in JavaScript, with cloud and open-source options.
 - [JMeterHub](https://www.jmeterhub.com) - Interactive performance report visualizer for Apache JMeter logs with zero setup, AI conclusions, and shareable reports.
 
@@ -183,7 +182,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Jumpstarter](https://github.com/jumpstarter-dev/jumpstarter) - Open source hardware-in-the-loop testing framework for automated testing on real and virtual hardware with CI/CD integration.
 - [Robot Framework](https://robotframework.org/) - Generic open-source automation framework for testing and RPA.
 - [ai-natural-language-tests](https://github.com/aiqualitylab/ai-natural-language-tests) - Generates Cypress and Playwright E2E tests from natural language requirements using LangGraph, ChromaDB, and multi-provider LLM support.
-- [OpenTester](https://github.com/kznr02/OpenTester) - MCP-First Testing Framework: AI Agents Can Now Test Like Humans
+- [OpenTester](https://github.com/kznr02/OpenTester) - MCP-First Testing Framework: AI Agents Can Now Test Like Humans.
 - [Selenium Boot](https://seleniumboot.com) - Java framework layered on Selenium WebDriver and TestNG. One Maven dependency and one YAML file replace the usual driver-lifecycle, wait, retry and reporting boilerplate, and the raw WebDriver stays accessible.
 - [optics-framework](https://github.com/mozarkai/optics-framework) - Self-healing test automation for mobile, web and Smart TV. Keyword-driven CSV/YAML tests run on Appium, Selenium and Playwright; when a locator breaks it falls back across XPath, text, OCR and image strategies, with optional AI-powered self-healing.
 
@@ -216,7 +215,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Effective Software Testing](https://www.manning.com/books/effective-software-testing) - A hands-on guide for developers on how to create high quality tests in a systematic and effective way.
 
 ## Training (Includes developer training for automation testers)
-- [Learn to Code](https://github.com/karlhorky/learn-to-program) - Another awesome list for developer training
+- [Learn to Code](https://github.com/karlhorky/learn-to-program) - Another awesome list for developer training.
 - [Coursera](https://www.coursera.org/) - Online courses from top universities.
 - [Cybrary](https://www.cybrary.it/) - Online free security training.
 - [BBST Testing Courses](https://bbst.courses/bbst-testingeducation-materials/) - The famous Black Box Software Testing (BBST) courses are university level courses on Software Test Foundations, Bug Reporting and Test Design. These materials have been creative commons licensed for use by anyone. Includes articles, slides and video lectures.
@@ -242,7 +241,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Useful References
 - [The Original](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
-- [Learn to Code](https://github.com/karlhorky/learn-to-program) - Learning to code, for those looking to make the move to automation
+- [Learn to Code](https://github.com/karlhorky/learn-to-program) - Learning to code, for those looking to make the move to automation.
 - [Application Security](https://github.com/paragonie/awesome-appsec) - Incredibly extensive, but you'll find something to fit the bill.
 - [Selenium](https://github.com/christian-bromann/awesome-selenium) - Better than searching Google if you know what you want.
 - [Security](https://github.com/sbilly/awesome-security) - This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful.
@@ -251,7 +250,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Awesome Cucumber](https://github.com/virajkulkarni14/awesome-cucumber) - A (relatively-newer) curated list of awesome Cucumber and Gherkin-related resources.
 - [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter) - A curated collection of resources around Apache JMeter.
 - [Awesome Performance Engineering](https://github.com/be-next/awesome-performance-engineering) - A curated collection of tools and resources for performance engineering, covering observability and performance testing.
-- [How They Test](https://github.com/abhivaikar/howtheytest) - A curated collection of public resources from tech companies on how they test their software and build a quality culture
+- [How They Test](https://github.com/abhivaikar/howtheytest) - A curated collection of public resources from tech companies on how they test their software and build a quality culture.
 - [Awesome Behave](https://github.com/MathiasPaulenko/awesome-behave#readme) - A curated list of Behave resources, tools, and libraries for Python BDD.
 
 ## QA and Testing Road Map
